@@ -29,7 +29,7 @@
 ---
 ## 📜 Usage
 ~~~
-./user-management.sh [OPTION]
+./user_management.sh [OPTION]
 ~~~
 
 Run the script with any of the following options:
